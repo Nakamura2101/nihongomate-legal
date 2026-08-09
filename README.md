@@ -1,8 +1,8 @@
 # nihongomate-legal
 
-Public legal and support pages for **NihongoMate**.
+Public legal and support pages for **BamenCue**.
 
-Canonical domain: <https://nihongomate.com>
+Canonical domain: <https://bamencue.com>
 
 ## Public routes
 
