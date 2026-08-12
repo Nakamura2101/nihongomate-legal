@@ -86,11 +86,21 @@ body {
   text-decoration: none;
   display: inline-flex;
   align-items: center;
+  gap: 10px;
   min-height: 44px;
 }
 
 .brand:hover {
   text-decoration: underline;
+}
+
+/* App icon, drawn as the tile the store and home screen show. */
+.brand-mark {
+  flex: none;
+  display: block;
+  width: 28px;
+  height: 28px;
+  border-radius: 22%;
 }
 
 .site-nav {
