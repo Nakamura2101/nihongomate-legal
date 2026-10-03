@@ -1,0 +1,5 @@
+# https://bamencue.com/robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://bamencue.com/sitemap.xml
